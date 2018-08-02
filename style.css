@@ -1,0 +1,226 @@
+body{
+    
+}
+img{
+    border: 0px;
+}
+.container{
+    width:900px;
+    margin:0 auto;
+}
+.header-div{
+    margin: 0 auto;
+    //border-top-left-radius: 20px;
+    //border-top-right-radius: 20px;
+    height: 110px;
+    background-color: #FFFFFF;
+}
+.header_logo {
+    float: left;
+    margin-left: 10px;
+    padding: 5px;
+    margin-top:20px;
+}
+.menu-bar{
+    padding-top: 2px;
+    height: 32px;
+}
+.content-container{
+    padding: 10px;
+    padding-bottom: 50px;
+    background-color: #FFFFFF;   
+}
+.footer-div{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    //border-bottom-left-radius: 20px;
+    //border-bottom-right-radius: 20px;
+    height: 180px;
+    background-color: #FFFFFF;
+}
+.user-view{
+    border:1px solid #F1E5E5; 
+    margin-bottom:5px;
+    background: #F2F2F2;
+    color: darkblue;
+}
+.user-view .user-image{
+    height:90px;
+    overflow: hidden;
+    padding: 5px;
+}
+.user-view .views-count{
+    text-align: center;
+}
+.user-view .info{
+    padding: 5px;
+}
+.user-view .name{
+    text-decoration: underline;
+    font-size:16px;
+}
+.user-view .location{
+}
+.user-view .joining{
+}
+.user-view .college{
+    font-size: 16px;
+}
+.abouttext{
+    //border:1px solid #F1E5E5; 
+    margin-bottom:5px;
+    //background: #F2F2F2;
+    font-size:14px;
+    padding:10px;
+}
+.form-heading{
+    text-align:center;
+    color: gray;
+    font-weight: bold;
+    font-size: 18px;
+}
+.form-status{
+    text-align:center;
+    margin-top: 10px;
+    height:30px;
+    font-size: 12px;
+}
+.allforms .smallselect{
+     width:160px;
+}
+.allforms .largeselect{
+     width: 350px;
+}
+.allforms .smalltext{
+     width:146px;
+}
+.allforms .largetext{
+     width:334px;
+}
+.allforms .submitbtn{
+     width:527px;
+     font-size:20px;
+     padding:10px;
+}
+.allforms .showformbtn{
+    font-size: 12px;
+}
+.allforms .formbottom{
+    padding-top: 10px;
+    text-align: center;   
+}
+
+ .productView{
+        background: #FFFFFF;
+        height: 220px;   
+    }
+    .productView:hover{
+        background: #CEECF5;
+    }
+
+
+
+/*--Navigation---*/
+
+.slogan 
+
+{
+
+    padding-top: 4px;
+
+    float: right;
+
+    color: #B40404;
+
+    font-size: 12px;
+
+    font-weight:bold;
+
+    font-style: italic;
+
+    padding-left: 0;
+
+}
+
+.menu-bar ul {
+
+    font-family: Arial, Verdana;
+
+    font-size: 14px;
+
+    margin: 0;
+
+    padding: 0;
+
+    list-style: none;
+
+}
+
+.menu-bar ul li {
+
+    display: block;
+
+    position: relative;
+
+    float: left;
+
+}
+
+.menu-bar li ul {
+
+    display: none;
+
+}
+
+ .menu-bar ul li a {
+
+    display: block;
+
+    text-decoration: none;
+
+    color: #ffffff;
+
+    //border-top: 1px solid #ffffff;
+
+    padding: 5px 15px 5px 15px;
+
+   // background: #1e7c9a;
+
+   background: black;
+    margin-left: 1px;
+
+    white-space: nowrap;
+
+}
+
+.menu-bar ul li a:hover {
+
+background: #3b3b3b;
+
+}
+
+.menu-bar li:hover ul {
+
+    display: block;
+
+    position: absolute;
+
+}
+
+.menu-bar li:hover li {
+
+    float: none;
+
+    font-size: 11px;
+
+}
+
+.menu-bar li:hover a { background: #3b3b3b; }
+
+.menu-bar li:hover li a:hover {
+
+    background: #1e7c9a;
+
+}
+
+/*--Navigation---*/
